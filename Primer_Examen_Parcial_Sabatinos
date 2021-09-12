@@ -1,8 +1,0 @@
-#Imprimimos la instruccion para el usuario
-print("Da un numero entero al azar:")
-#Se coloca un input y se designa como int para que el programa sepa que es un entero
-numeroazar= int(input())
-#A traves del input el usuario puede contestar la solicitud
-print("El resultado de la suma es:")
-#Imprimimos el valor del numero que da el usuario mas sus anteriores
-print(na*(na+1)//2)
